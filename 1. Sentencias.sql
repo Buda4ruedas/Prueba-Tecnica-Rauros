@@ -6,7 +6,7 @@ CREATE TABLE Cliente (
     numero_telefono Varchar(15),
     CONSTRAINT pk_cliente PRIMARY KEY (ID_cliente)
 );
--- He creado la tabla cliente con los atributos indicados en el enunciados. Hacemos el id autoincremental.
+-- He creado la tabla cliente con los atributos indicados en el enunciado. Haciendo el id autoincremental.
 
 
 CREATE TABLE Vehiculo ( 
